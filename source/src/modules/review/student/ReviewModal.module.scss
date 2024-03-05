@@ -1,0 +1,15 @@
+.modal-review{
+    height: 500px;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden; 
+}
+.btn-add{
+    color: rgb(34, 139, 230);
+    font-size: 12px;
+    background-color: rgb(231, 245, 255);
+    &:hover{
+        color: rgb(34, 139, 230) !important;
+        background-color: rgb(209, 227, 240) !important;
+    }
+}

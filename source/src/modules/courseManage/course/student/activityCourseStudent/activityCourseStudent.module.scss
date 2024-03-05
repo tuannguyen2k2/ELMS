@@ -1,0 +1,9 @@
+.disableSearch{
+    :global .ant-form-item{
+        margin: 0;
+    }
+    button{
+        pointer-events: none;
+        opacity: 0.5;
+    }
+}

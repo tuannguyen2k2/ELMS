@@ -1,0 +1,8 @@
+.custom-div {
+    cursor: pointer;
+    text-decoration: none;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }

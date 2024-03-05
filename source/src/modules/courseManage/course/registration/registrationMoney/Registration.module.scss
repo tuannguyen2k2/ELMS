@@ -1,0 +1,16 @@
+.customCheckbox {
+    :global .ant-form-item-label {
+        display: flex !important;
+        width: 200px !important;
+        padding: 0 !important;
+    }
+    :global .ant-form-item-row {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+    }
+}
+.green-check-icon {
+    color: green;
+    font-size: 18px;
+}
